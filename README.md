@@ -29,7 +29,7 @@ Hi, I'm Ryan Njualem and this is my Cyber Security Project Portfolio. I am curre
 </div>
 
 # Certifications 
-List our your certifications and/or link to them. Also include the ones you plan on doing!
+
 
 |     Certification     |               Completed?               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
