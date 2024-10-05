@@ -13,7 +13,7 @@ Hi, I'm Ryan Njualem and this is my Cyber Security Project Portfolio. I am curre
 |                 |                                       |                 |                 |                                |                 |                 |
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
