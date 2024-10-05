@@ -17,8 +17,8 @@ Hi, I'm Ryan Njualem and this is my Cyber Security Project Portfolio. I am curre
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Ryannj0/SIEM1/blob/main/README.md">SIEM</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Ryannj0/SIEM1/blob/main/README.md">SIEM</a>|
 
 ## Tools
 
