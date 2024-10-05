@@ -9,7 +9,7 @@ Hi, I'm Ryan Njualem and this is my Cyber Security Project Portfolio. I am curre
 # Project Overview 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
-| Building a SIEM | Log management, Security Archtecture  |  Azure|  <a href="https://github.com/Ryannj0/pr/blob/main/READ">SIEM</a>   |
+| Building a SIEM | Log management, Security Archtecture  |  Azure|  <a href="https://github.com/Ryannj0/SIEM1/blob/main/README.md">SIEM</a>   |
 |                 |                                       |                 |                 |                                |                 |                 |
 
 ## Skills
