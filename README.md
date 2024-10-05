@@ -1,16 +1,21 @@
-## Hi there 👋
+## Ryan Njualem's Porfolio
 
-<!--
-**Ryannj0/Ryannj0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Portfolio
 
-Here are some ideas to get you started:
+Hi, I'm Ryan Njualem and this is my Cyber Security Project Portfolio. I am currently completing these projects to develop my knowledge in the dynamic real of cybersecurity. I am also currently a Cyber security degree student at Aston university, Birmingham. I am eager to join a forward-thinking organization where my skills and enthusiasm for security can make a meaningful impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Project Overview 
+|     Project     |                 Skills                |     Tools       |      Link       |
+| --------------- | ------------------------------------- | --------------- | --------------- |
+| Building a SIEM | Log management, Security Archtecture  |  Azure|  <a href="https://github.com/Ryannj0/pr/blob/main/READ">SIEM</a>   |
+|                 |                                       |                 |                 |                                |                 |                 |
+
+
+# Certifications 
+List our your certifications and/or link to them. Also include the ones you plan on doing!
+
+|     Certification     |               Completed?               |     Link       |
+| --------------------  | -------------------------------------- | ---------------| 
+| CompTIA Security+     |    Planning to start before January                     |     xxx        | 
+
