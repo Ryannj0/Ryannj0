@@ -12,6 +12,7 @@ Hi, I'm Ryan, a Cyber Security (BSc) student at Aston University in Birmingham, 
 | ------- | ------------ | ----- | ---- |
 | Azure SIEM honeypot lab | Deployed a deliberately exposed Azure VM, collected failed RDP logins (Event ID 4625) in Log Analytics and visualised the attacks in Microsoft Sentinel | Azure, Microsoft Sentinel, Log Analytics, KQL | [SIEM](https://github.com/Ryannj0/SIEM1) |
 | MFA Registration Report | PowerShell script that reports which users in an Entra ID tenant are registered for MFA and flags admin accounts without it | PowerShell, Microsoft Graph, Entra ID | [MFA Report](https://github.com/Ryannj0/mfa-registration-report) |
+| Invoice Approval Automation | Microsoft 365 prototype that routes invoices by amount, collects approval or rejection decisions and automatically emails the submitter the outcome | Power Automate, Microsoft Forms, Excel, Outlook | [Invoice Automation](https://github.com/Ryannj0/invoice-approval-power-automate) |
  
 ## Skills
  
@@ -22,6 +23,7 @@ Hi, I'm Ryan, a Cyber Security (BSc) student at Aston University in Birmingham, 
 | PowerShell automation with the Microsoft Graph API | [MFA Report](https://github.com/Ryannj0/mfa-registration-report) |
 | Identity security: MFA coverage and admin account review | [MFA Report](https://github.com/Ryannj0/mfa-registration-report) |
 | Least-privilege access (read-only permissions and reader roles) | [MFA Report](https://github.com/Ryannj0/mfa-registration-report) |
+| Business workflow automation, approval routing and email notifications | [Invoice Automation](https://github.com/Ryannj0/invoice-approval-power-automate) |
  
 ## Tools
  
